@@ -3,11 +3,11 @@
 
 
 
-adresse           Tötenhengst 2
-                  4550 Kremsmünster
-phone number      0664 / 4768129
-e-mail            rashad.khoshnow@gmail.com
-birth date        21.01.1994
+adresse           Tötenhengst 2<br>
+                  4550 Kremsmünster<br>
+phone number      0664 / 4768129<br>
+e-mail            rashad.khoshnow@gmail.com<br>
+birth date        21.01.1994<br>
 
 
 
