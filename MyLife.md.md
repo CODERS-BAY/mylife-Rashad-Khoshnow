@@ -1,6 +1,6 @@
 # **RESUME**
 # **Rashad KHOSHNOW**
-
+<img align = "right" src="foto.png" width="120" height="140">
 
 
 adresse           Tötenhengst 2<br>
